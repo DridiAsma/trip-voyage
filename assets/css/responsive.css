@@ -1,0 +1,55 @@
+
+@media(max-width: 1024px) {
+    .title {
+        color: #112B3C;
+        font-family: Barlow;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+      }
+      
+      .titre-section {
+        color: #E61C5D;
+        font-family: Barlow;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        letter-spacing: 3.2px;
+        text-transform: uppercase;
+      }
+      
+      p {
+        color: #808080;
+        font-family: Barlow;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+       
+      }
+      
+      .prix {
+        color: #E61C5D;
+        font-family: Barlow;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+     
+      }
+
+
+      .stick .btn {
+        font-size: 15px;
+        padding: 10px;
+       
+    }
+      
+}
+
+
+@media(max-width: 767px){
+    .stick .blog-top {
+        width: 100%;
+        object-fit: cover;
+    }
+}
